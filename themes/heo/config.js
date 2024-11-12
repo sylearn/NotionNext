@@ -7,7 +7,7 @@ const CONFIG = {
   HEO_NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://blog.sylearn.cn' },
     { title: '我的知乎主页', url: 'https://www.zhihu.com/people/wang-su-yun-69' },
-    { title: '我的github主页', url: 'https://github.com/Code-WSY' },
+    { title: '我的github主页', url: 'https://github.com/sylearn' },
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -45,7 +45,7 @@ const CONFIG = {
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: 'https://www.zhihu.com/people/wang-su-yun-69',
   HEO_INFO_CARD_ICON1: 'fab fa-zhihu', 
-  HEO_INFO_CARD_URL2: 'https://github.com/Code-WSY',
+  HEO_INFO_CARD_URL2: 'https://github.com/sylearn',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
   HEO_INFO_CARD_URL3: '/about',
   HEO_INFO_CARD_TEXT3: '了解更多',
