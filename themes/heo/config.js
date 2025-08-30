@@ -19,7 +19,7 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '知识分享',
-  HEO_HERO_TITLE_2: '与认知',
+  HEO_HERO_TITLE_2: '与成长记录',
   HEO_HERO_TITLE_3: 'Sylearn',
   HEO_HERO_TITLE_4: 'Sylearn',
   HEO_HERO_TITLE_5: '欢迎来到我的博客',
